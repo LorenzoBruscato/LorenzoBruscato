@@ -3,9 +3,9 @@
 - 🔭 Sou um universitario cursando Ciencia da comptução
 - 🌱 Estou apredendo a linguagem Java
 - 📫 Contate-me no email: lorenzobruscato6@gmail.com
-- 😄 Pronomes: ele/dele
+- Pronomes: ele/dele
 
-  ## Meu Likedin
+  ## Meu LinkedIn
   
     [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lorenzo-bruscato-56b074324/)
 
