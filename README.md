@@ -3,7 +3,6 @@
 - 🔭 Sou um universitário cursando Ciência da Computação
 - 🌱 Estou aprendendo a linguagem Java
 - 📫 Contate-me no email: lorenzobruscato6@gmail.com
-- Pronomes: ele/dele
 
   ## Meu LinkedIn
   
