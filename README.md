@@ -4,16 +4,25 @@
 - 🌱 Estou aprendendo a linguagem Java
 - 📫 Contate-me no email: lorenzobruscato6@gmail.com
 
-  ## Meu LinkedIn
+## Meu LinkedIn
   
-    [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lorenzo-bruscato-56b074324/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lorenzo-bruscato-56b074324/)
 
 ### 🤖 Linguagens e Tecnologias
-<img 
+<p>
+  <img 
     align="left" 
-    alt="HTML"
+    alt="Java"
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-          />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+  <img 
+    alt="Git" 
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+</p>
