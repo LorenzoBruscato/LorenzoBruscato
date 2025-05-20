@@ -27,6 +27,7 @@
   />
 </p>
 
+
 ## ⚙️ GitHub Analytics
 
 <p>
@@ -34,3 +35,6 @@
   &nbsp;
   <img align="rigth" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LorenzoBruscato&show_icons=true&locale=en&theme=dark" alt="LorenzoBruscato" />
 </p>
+
+## 🌟 Contributions
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LorenzoBruscato&theme=blood-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
