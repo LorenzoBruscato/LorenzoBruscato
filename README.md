@@ -2,7 +2,7 @@
 
 - 🔭 Sou um universitário cursando Ciência da Computação.
 - 🌱 Estou aprendendo a linguagem Java.
-- 📫 Contate-me no email: lorenzobruscato6@gmail.com.
+- 📫 Contate-me no email: lorenzobruscato6@gmail.com
 
 ## 🔗 Social Media
 
