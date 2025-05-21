@@ -20,9 +20,9 @@
 ## ⚙️ GitHub Analytics
 
 <p>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=LorenzoBruscato&show_icons=true&locale=en&theme=dark" alt="LorenzoBruscato" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=LorenzoBruscato&show_icons=true&locale=en&theme=dracula" alt="LorenzoBruscato" />
   &nbsp;
-  <img align="rigth" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LorenzoBruscato&show_icons=true&locale=en&theme=dark" alt="LorenzoBruscato" />
+  <img align="rigth" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LorenzoBruscato&show_icons=true&locale=en&theme=dracula" alt="LorenzoBruscato" />
 </p>
 
 ## 🌟 Contributions
