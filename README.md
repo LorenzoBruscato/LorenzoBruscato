@@ -1,8 +1,8 @@
-# Olá! Seja bem-vindo ao meu perfil
+#  Olá! Eu sou o Lorenzo ☕
 
-- 🔭 Sou um universitário cursando Ciência da Computação.
-- 🌱 Estou aprendendo a linguagem Java.
-- 📫 Contate-me no email: lorenzobruscato6@gmail.com
+- 💻 Universitário imerso no mundo da Ciência da Computação.
+- 🚀 Explorando os caminhos de Java e ansioso para dominar HTML, CSS e JavaScript.
+- 📧 Conecte-se comigo através do email: lorenzobruscato6@gmail.com
 
 ## 🔗 Social Media
 
